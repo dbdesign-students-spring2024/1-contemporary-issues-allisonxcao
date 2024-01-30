@@ -1,7 +1,3 @@
-# Contemporary Issues In Data
-
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
-
 # Italy claims ChatGPT violates European Privacy Laws
 In this document, I will be sharing information on ChatGpt's violation of data privacy laws established by the European Union. I will provide information from two articles; though they are similar, each one shares unique and differing points in line with the subject. 
 
