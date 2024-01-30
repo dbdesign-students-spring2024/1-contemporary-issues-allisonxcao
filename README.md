@@ -1,3 +1,16 @@
 # Contemporary Issues In Data
 
 Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+
+# Italy claims ChatGPT violates European Privacy Laws
+In this document, I will be sharing information on ChatGpt's violation of data privacy laws established by the European Union. I will provide information from two articles; though they are similar, each one shares unique and differing points in line with the subject. 
+
+## Article 1
+In the BBC's [`ChatGPT: Italy says OpenAI's chatbot breaches data protection rules`] (https://apnews.com/article/technology-business-europe-ireland-european-union-77d88a197a6f8d2ac6ad490e4ad69c8c), the author discusses how Italy's Data Protection Authority (DPA) has found ChatGPT, the AI chatbot developed by OpenAI, in violation of the EU's General Data Protection Regulation (GDPR). The investigation revealed issues related to the collection of personal data and age-related protections. This development follows Italy's initial decision in March 2023 to block ChatGPT due to privacy concerns, although the service was reinstated about four weeks later after OpenAI addressed the DPA's concerns.
+
+The Italian DPA's inquiry into ChatGPT is part of a broader focus on data privacy and the protection of user data. The violations are linked to the mass collection of user data used to train the chatbot's algorithm, and there are also concerns about exposing younger users to potentially inappropriate content. Under GDPR, companies can face substantial fines for such violations. The Italian DPA is working in conjunction with the European Union's European Data Protection Board, which established a special task force to monitor ChatGPT. In response to the reinstatement of ChatGPT in Italy, OpenAI had promised further compliance measures, including an age verification system and an information campaign for Italian users about their data rights. Microsoft, a significant investor in OpenAI, has been integrating AI into its various products like Bing and Office 365 apps.
+
+## Article 2
+In Reuters' [`OpenAI's ChatGPT breaches privacy rules, says Italian watchdog`] (https://www.reuters.com/technology/cybersecurity/italy-regulator-notifies-openai-privacy-breaches-chatgpt-2024-01-29/), they detail how Italy's data protection authority, Garante, notified OpenAI of potential breaches in EU data protection rules by ChatGPT. This follows a previous temporary ban and reinstatement of ChatGPT in Italy, where issues concerning user consent for data usage were addressed. Garante's ongoing investigation reflects the stringent approach of EU authorities towards ensuring AI platforms comply with GDPR.
+
+OpenAI, in its response, has expressed confidence that its practices are in line with EU privacy laws, emphasizing efforts to minimize personal data usage in training AI systems. This situation highlights the challenges AI companies face in navigating complex and evolving data privacy regulations, especially under the GDPR, which allows for significant fines for non-compliance. Italy's proactive stance and the creation of a European task force to monitor AI platforms like ChatGPT indicate a growing regulatory focus on AI technologies.
